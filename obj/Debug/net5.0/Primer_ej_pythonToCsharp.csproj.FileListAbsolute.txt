@@ -1,0 +1,16 @@
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\bin\Debug\net5.0\Primer_ej_pythonToCsharp.exe
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\bin\Debug\net5.0\Primer_ej_pythonToCsharp.deps.json
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\bin\Debug\net5.0\Primer_ej_pythonToCsharp.runtimeconfig.json
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\bin\Debug\net5.0\Primer_ej_pythonToCsharp.runtimeconfig.dev.json
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\bin\Debug\net5.0\Primer_ej_pythonToCsharp.dll
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\bin\Debug\net5.0\ref\Primer_ej_pythonToCsharp.dll
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\bin\Debug\net5.0\Primer_ej_pythonToCsharp.pdb
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\obj\Debug\net5.0\Primer_ej_pythonToCsharp.csproj.AssemblyReference.cache
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\obj\Debug\net5.0\Primer_ej_pythonToCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\obj\Debug\net5.0\Primer_ej_pythonToCsharp.AssemblyInfoInputs.cache
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\obj\Debug\net5.0\Primer_ej_pythonToCsharp.AssemblyInfo.cs
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\obj\Debug\net5.0\Primer_ej_pythonToCsharp.csproj.CoreCompileInputs.cache
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\obj\Debug\net5.0\Primer_ej_pythonToCsharp.dll
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\obj\Debug\net5.0\ref\Primer_ej_pythonToCsharp.dll
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\obj\Debug\net5.0\Primer_ej_pythonToCsharp.pdb
+C:\Users\lucas\.001 - Facultad\Programacion_2\Primer_ej_pythonToCsharp\obj\Debug\net5.0\Primer_ej_pythonToCsharp.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Primer_ej_pythonToCsharp/1.0.0": {
+        "runtime": {
+          "Primer_ej_pythonToCsharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primer_ej_pythonToCsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
