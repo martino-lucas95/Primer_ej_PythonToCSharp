@@ -6,6 +6,7 @@ namespace Character
     {
         static void Main(string[] args)
         {
+            //Agrego comentario para firstCommit del branch
             Character p1,p2;
             p1 = new Character("p1",100,70,"ataque1");
             p2 = new Character("p2",100,75,"ataque2");
